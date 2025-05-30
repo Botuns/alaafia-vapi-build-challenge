@@ -1,4 +1,4 @@
-# Alafia - AI-Powered Elderly Care Companion
+# Alafia - AI-Powered Elderly Care Companion(VIBE-CODED)
 
 Alafia is an innovative elderly care solution that combines AI voice technology with automated wellness monitoring to provide comprehensive support for elderly individuals and their caregivers.
 
