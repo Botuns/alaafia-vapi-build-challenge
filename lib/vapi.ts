@@ -3,7 +3,7 @@ const VAPI_API_KEY = process.env.VAPI_API_KEY;
 const VAPI_API_URL = "https://api.vapi.ai";
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL;
 // const APP_URL = "https://6139-102-89-69-98.ngrok-free.app";
-const VAPI_API_KEY_B = "72cb8b72-ed8e-4522-a4d8-69c5f319eeeb";
+const VAPI_API_KEY_B =  process.env.VAPI_API_KEY_B;
 
 // Types for Vapi API
 interface VapiAssistantConfig {
